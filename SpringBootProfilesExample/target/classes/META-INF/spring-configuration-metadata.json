@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "server",
+    "type": "springbootprofile.ServerProperties",
+    "sourceType": "springbootprofile.ServerProperties"
+  }],
+  "properties": [
+    {
+      "name": "server.cluster",
+      "type": "java.util.List<springbootprofile.ServerProperties.Cluster>",
+      "sourceType": "springbootprofile.ServerProperties"
+    },
+    {
+      "name": "server.email",
+      "type": "java.lang.String",
+      "sourceType": "springbootprofile.ServerProperties"
+    }
+  ],
+  "hints": []
+}
