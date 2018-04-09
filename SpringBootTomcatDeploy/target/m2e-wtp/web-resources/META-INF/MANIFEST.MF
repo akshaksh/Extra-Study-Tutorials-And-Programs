@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootTomcatDeploy
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ajku0717
+Implementation-Vendor-Id: spring-boot-tomcat-deploy
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ tomcat-deploy/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
