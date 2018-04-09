@@ -1,0 +1,73 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "springbootjsp.GlobalProperties",
+      "sourceType": "springbootjsp.GlobalProperties"
+    },
+    {
+      "name": "app",
+      "type": "springbootjsp.AppProperties",
+      "sourceType": "springbootjsp.AppProperties"
+    },
+    {
+      "name": "app.compiler",
+      "type": "springbootjsp.AppProperties$Compiler",
+      "sourceType": "springbootjsp.AppProperties",
+      "sourceMethod": "public springbootjsp.AppProperties.Compiler getCompiler() "
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.compiler.output-folder",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties$Compiler"
+    },
+    {
+      "name": "app.compiler.output-folder",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties$Compiler"
+    },
+    {
+      "name": "app.compiler.output-folder",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties$Compiler"
+    },
+    {
+      "name": "app.compiler.timeout",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties$Compiler"
+    },
+    {
+      "name": "app.compiler.timeout",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties$Compiler"
+    },
+    {
+      "name": "app.compiler.timeout",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties$Compiler"
+    },
+    {
+      "name": "app.error",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.AppProperties"
+    },
+    {
+      "name": "app.menus",
+      "type": "java.util.List<springbootjsp.AppProperties.Menu>",
+      "sourceType": "springbootjsp.AppProperties"
+    },
+    {
+      "name": "email",
+      "type": "java.lang.String",
+      "sourceType": "springbootjsp.GlobalProperties"
+    },
+    {
+      "name": "thread-pool",
+      "type": "java.lang.Integer",
+      "sourceType": "springbootjsp.GlobalProperties"
+    }
+  ],
+  "hints": []
+}
